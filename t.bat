@@ -1,0 +1,1 @@
+python %py_home%\recognize.py --detector %py_home%\face_detection_model --embedding-model %py_home%/openface_nn4.small2.v1.t7 --recognizer %py_home%/output/recognizer.pickle --le %py_home%/output/le.pickle --image %py_home%/images/bibisara.jpg

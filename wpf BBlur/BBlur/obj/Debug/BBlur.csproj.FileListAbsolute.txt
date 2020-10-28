@@ -1,0 +1,63 @@
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\BBlur.exe.config
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\BBlur.exe
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\BBlur.pdb
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\MainWindow.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\App.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur_MarkupCompile.cache
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur_MarkupCompile.lref
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\MainWindow.baml
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.g.resources
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.Properties.Resources.resources
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.csproj.GenerateResource.Cache
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.csproj.CoreCompileInputs.cache
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.exe
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.pdb
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\Window1.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\Window1.baml
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\WindowAddImages.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\WindowAddImages.baml
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.csprojResolveAssemblyReference.cache
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\openFileDialog1.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\openFileDialog1.baml
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\ChoosenDWindow.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\ChoosenDWindow.baml
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur_Content.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\WindowBlurImage.g.cs
+C:\Users\shosh\Desktop\wpf BBlur\BBlur\BBlur\obj\Debug\WindowBlurImage.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\ChoosenDWindow.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\MainWindow.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\Blur.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\Window1.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\WindowAddImages.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\WindowBlurImage.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\WindowRunDirBur.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\App.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur_Content.g.cs
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur_MarkupCompile.cache
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur_MarkupCompile.lref
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\BBlur.exe.config
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\BBlur.exe
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\BBlur.pdb
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\ChoosenDWindow.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\MainWindow.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\Blur.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\openFileDialog1.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\Window1.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\WindowAddImages.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\WindowBlurImage.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\WindowRunDirBur.baml
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.g.resources
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.Properties.Resources.resources
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.exe
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.pdb
+C:\Users\owner\Desktop\wpf BBlur\wpf BBlur\BBlur\BBlur\obj\Debug\BBlur.csprojResolveAssemblyReference.cache
